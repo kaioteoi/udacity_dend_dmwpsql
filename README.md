@@ -3,12 +3,12 @@
 # Sparkify ETL
 
 ## Requirements
-- [Python 3+]([https://www.python.org/downloads/](https://www.python.org/downloads/))
+- [Python 3+](https://www.python.org/downloads/)
 - [Postgres 9.5](https://www.postgresql.org/download/)
 
 *If you want to experiment with the provided notebooks:*
 
-- [Jupyter notebook]([https://jupyter.org/install](https://jupyter.org/install)) 
+- [Jupyter notebook](https://jupyter.org/install)
 
 ## Running the ETL
 Make sure to have `Python3` installed, as per *requirements* section.
